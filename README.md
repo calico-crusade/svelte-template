@@ -13,7 +13,7 @@ It a contains a few things pre-configured and enabled, such as:
 To create a new Sapper project based on Rollup locally, run
 
 ```bash
-npx degit "calico-crusade/svelte-template" my-app
+npx degit "calico-crusade/svelte-template#sapper" my-app
 ```
 
 [`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository.
