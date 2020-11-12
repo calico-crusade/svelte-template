@@ -1,0 +1,11 @@
+<script lang="typescript">
+    let name = "about's name";
+</script>
+
+<svelte:head>
+	<title>About</title>
+</svelte:head>
+
+<h1>About this site: {name}</h1>
+
+<p>This is the 'about' page. There's not much here.</p>
